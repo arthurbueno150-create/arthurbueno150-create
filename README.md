@@ -27,7 +27,7 @@
 
 ## 🧠 Sobre mim
 
-Sou Arthur, cientista de dados apaixonado por encontrar padrões onde outros veem apenas números. Trabalho na interseção entre análise de dados, machine learning e inteligência de negócios — transformando dados brutos em insights que movem decisões reais.
+Sou Arthur,sou um estudante de cientista de dados apaixonado por encontrar padrões onde outros veem apenas números. Trabalho na interseção entre análise de dados, machine learning e inteligência de negócios — transformando dados brutos em insights que movem decisões reais.
 
 - 🔭 Explorando modelos de ML e análise preditiva
 - 📊 Construindo dashboards e relatórios que contam histórias
